@@ -3,6 +3,7 @@
 ##  **About me 💻🎸**
 
 Hi, I'm Ethan Daniel, but my friends usually call me Dandi, you can call me whatever you like. I'm studying Systems Analysis and Development at UNESC. 
+<br></br>
 I have a thing for front-end but I'm very interested in learning new things.
 <br></br>
 
