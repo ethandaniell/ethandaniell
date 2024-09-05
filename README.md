@@ -1,4 +1,4 @@
-<img align="left" height="160px" src="" width="230px" alt="Profile picture">
+<img align="left" height="160px" src="https://i.pinimg.com/1200x/9c/16/79/9c16794087926a543b4816d57412f112.jpg" width="160px" alt="Profile picture">
 
 ##  **About me 💻🎸**
 
@@ -19,10 +19,4 @@ In my free time I like to play the guitar, read, play games, listen to music or 
 Portuguese is my first language. I speak intermediate level English and I want to learn Italian and Japanese in the near future.
 
 ---
-
-
-
-<img align="right" height="200px" src="https://media1.tenor.com/m/pDEsS9t9fe0AAAAd/windows-error-virus-alert.gif" width="370">
-<br><br>
-
----
+<img align="center" height="200px" src="https://media1.tenor.com/m/pDEsS9t9fe0AAAAd/windows-error-virus-alert.gif" width="300">
